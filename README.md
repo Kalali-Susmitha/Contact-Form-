@@ -3,10 +3,6 @@
 This is a responsive contact form built using **HTML, CSS, and JavaScript** that includes real-time **input validation**. The form is user-friendly and mobile-ready — perfect for 
 integrating into websites or portfolios.
 
-## 🔗 Live Demo
-
-🚀 [Click here to view the live form](https://<Kalali-Susmitha>.github.io/contact-form-validation)
-
 ## 🛠️ Tech Stack
 
 - 🧱 HTML5 – Semantic markup
